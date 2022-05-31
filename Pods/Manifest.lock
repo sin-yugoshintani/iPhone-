@@ -1,0 +1,16 @@
+PODS:
+  - Eureka (5.3.6)
+
+DEPENDENCIES:
+  - Eureka
+
+SPEC REPOS:
+  trunk:
+    - Eureka
+
+SPEC CHECKSUMS:
+  Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
+
+PODFILE CHECKSUM: 60e6b0426d17129d7eb25e66093e7c5f8333529e
+
+COCOAPODS: 1.11.3

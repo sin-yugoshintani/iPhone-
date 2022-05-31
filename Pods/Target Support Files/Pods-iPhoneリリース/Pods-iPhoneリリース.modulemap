@@ -1,0 +1,6 @@
+framework module Pods_iPhone____ {
+  umbrella header "Pods-iPhoneリリース-umbrella.h"
+
+  export *
+  module * { export * }
+}
