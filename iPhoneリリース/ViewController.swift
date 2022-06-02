@@ -9,7 +9,7 @@ import UIKit
 import Eureka
 import ImageRow
 
-class ViewController: FormViewController {
+class EurekaViewController: FormViewController {
 
     var place : String = ""
     var weather : String = ""
@@ -189,16 +189,15 @@ class ViewController: FormViewController {
                       self.InstructorImage = row.value!
                   }
         
+                }
         
         
         
-            }
+        
+        
         
    }
        
-        
-        
-        // Do any additional setup after loading the view.
 }
 
     
